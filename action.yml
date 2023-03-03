@@ -1,0 +1,11 @@
+name: 'Custom Action'
+
+description: 'Mi acción creada en la EATI 2023'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
+branding:
+  icon: 'bookmark'
+  color: 'red'
