@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.png"></img></p>
 
-[[🇪🇸 Leer en español](README_ES.md)]
+[🇪🇸 Leer en español](README_ES.md)
 
 ### EATI 2023 My Action
 
