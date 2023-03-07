@@ -8,7 +8,7 @@ In this repository we have created our own action to be used from this other [re
 
 ___
 
-This repository was created for the course "**DevOps: tu pipeline de CI/CD con Github Actions**" of "Escuela de Actualización en Tecnologías de la Información" (EATI 2023) in charge of the [Departamento de Ciencias e Ingeniería Informática (DCIC)](https://cs.uns.edu.ar/) of the [Universidad Nacional del Sur (UNS)](https://uns.edu.ar/).
+This repository was created for the course "**DevOps: tu pipeline de CI/CD con Github Actions**" of "Escuela de Actualización en Tecnologías de la Información" (EATI 2023) in charge of [Departamento de Ciencias e Ingeniería Informática (DCIC)](https://cs.uns.edu.ar/) of [Universidad Nacional del Sur (UNS)](https://uns.edu.ar/).
 
 ___
 
