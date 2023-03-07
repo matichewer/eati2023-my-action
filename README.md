@@ -4,11 +4,11 @@
 
 ### EATI 2023 My Action
 
-In this repository we create our own action to later be used from this other repository
+In this repository we create our own action to later be used from this other repository.
 
 ___
 
-This repository corresponds to the course "DevOps: tu pipeline de CI/CD con Github Actions" of the "Escuela de Actualización en Tecnologías de la Información" (EATI 2023) in charge of the [Departamento de Ciencias e Ingeniería Informática (DCIC)](https://cs.uns.edu.ar/) of the [Universidad Nacional del Sur (UNS)](https://uns.edu.ar/).
+This repository was created for the course"**DevOps: tu pipeline de CI/CD con Github Actions**" of the "Escuela de Actualización en Tecnologías de la Información" (EATI 2023) in charge of the [Departamento de Ciencias e Ingeniería Informática (DCIC)](https://cs.uns.edu.ar/) of the [Universidad Nacional del Sur (UNS)](https://uns.edu.ar/).
 
 ___
 
