@@ -4,7 +4,7 @@
 
 ### EATI 2023 My Action
 
-In this repository we create our own action to later be used from this other repository.
+In this repository we create our own action to later be used from this other [repository](https://github.com/matichewer/eati2023-test-my-action).
 
 ___
 
