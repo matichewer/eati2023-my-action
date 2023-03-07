@@ -17,4 +17,3 @@ The repositories that we created during the course were the following:
 - https://github.com/matichewer/eati2023-pipeline
 - https://github.com/matichewer/eati2023-my-action/
 - https://github.com/matichewer/eati2023-test-my-action
-](https://uns.edu.ar/)
