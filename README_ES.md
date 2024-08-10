@@ -30,3 +30,8 @@ ssh -T git@github.com
 ```
 git archive --prefix=actividad/ --output=actividad.zip <branch-name>
 ```
+
+
+### Certificado
+
+Puedes ver el certificado de finalización de este curso [aquí](https://drive.google.com/file/d/1ObGCOL_tFuuZWA6ajZJmbZpprKPXbacM/view).
